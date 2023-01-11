@@ -1,5 +1,5 @@
 const swiperProcess = new Swiper(".swiper.process", {
-  slidesPerView: "auto",
+  slidesPerView: 1,
   spaceBetween: 20,
   
   navigation: {
