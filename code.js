@@ -1,4 +1,4 @@
 const swiperProcess = new Swiper(".swiper.process", {
-  spaceBetween: 20,
-  slidesPerView: 1
+  slidesPerView: "auto",
+  spaceBetween: 20
 });
